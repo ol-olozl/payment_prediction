@@ -1,6 +1,6 @@
-# Machine Learning-Based Payment Conversion Analysis
+# Machine Learning-Based Payment Prediction Analysis
 ### From Trial to Subscription in Coworking Spaces
-> ### 공유오피스 무료 체험 후 결제 전환 예측 및 전략 도출
+> ### 공유오피스 무료 체험 후 결제 예측 및 전략 도출
 
 <img width="1175" height="874" alt="image" src="https://github.com/user-attachments/assets/56405d2d-4ea3-49e1-ac4a-63a10916c89a" />
 
@@ -11,7 +11,7 @@
 ### 🤝 Project Overview
 This project was conducted as a team collaboration with 5 members, using real behavioral data from a coworking space platform (provided through an industry-academic partnership).
 We built a machine learning model to predict user payment conversion after a free trial and identified key behavioral and contextual features. Based on the model insights, we proposed two practical business strategies to improve conversion: membership restructuring and UI design optimization.
-> 본 프로젝트는 총 5명이 함께 수행한 **팀 프로젝트**로, 공유오피스 플랫폼의 실제 사용자 데이터를 기반으로 무료 체험 이후 결제 전환 여부를 예측하였습니다.
+> 본 프로젝트는 총 5명이 함께 수행한 **팀 프로젝트**로, 공유오피스 플랫폼의 실제 사용자 데이터를 기반으로 무료 체험 이후 결제 여부를 예측하였습니다.
 > 머신러닝 기반의 분석을 통해 결제에 영향을 미치는 주요 속성을 도출하고, 이를 바탕으로 회원권 구조 개선 및 UI 전략 제안이라는 두 가지 실질적인 비즈니스 액션을 도출하였습니다.
 
 ---

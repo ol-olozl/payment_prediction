@@ -1,5 +1,5 @@
-# Machine Learning-Based Payment Prediction Analysis
-### From Trial to Subscription in Coworking Spaces
+# Payment Prediction in Coworking Spaces Using Machine Learning
+### From Free Trial to Paid Subscription in Coworking Spaces
 > ### 공유오피스 무료 체험 후 결제 예측 및 전략 도출
 
 <img width="4608" height="3456" alt="Orange and Blue Structured Duotone Landscape University Research Poster" src="https://github.com/user-attachments/assets/541c6122-f6e1-4d2a-9f15-e815c1d05209" />
@@ -9,12 +9,11 @@
 
 ---
 
-### 🤝 Project Overview
-This project was conducted as a team collaboration with 5 members, using real behavioral data from a coworking space platform (provided through an industry-academic partnership).
-We built a machine learning model to predict user payment conversion after a free trial and identified key behavioral and contextual features. Based on the model insights, we proposed two practical business strategies to improve conversion: membership restructuring and UI design optimization.
+### 🤝 Project Overview  
+This project was conducted as a team collaboration with 5 members, using real behavioral data from a coworking space platform. We built a machine learning model to predict whether a user would make a payment after a free trial and identified key behavioral and contextual features. Based on model insights, we proposed two practical business strategies to increase payment likelihood: membership restructuring and UI design optimization.
 
-- `payment_prediction_analysis.ipynb`: collaborative notebook that summarizes the team’s end-to-end pipeline from data preprocessing to business strategy recommendations.
-- `my_part_analysis.ipynb`: my individual contribution focusing on machine learning modeling. I applied multiple tree-based ensemble classification models (e.g., LightGBM, XGBoost), compared their performance using metrics like F1 score and ROC-AUC, and extracted feature importance to identify key behavioral and locational factors influencing payment conversion.
+- `payment_prediction_analysis.ipynb`: collaborative notebook that summarizes the team’s end-to-end pipeline from data preprocessing to business strategy recommendations.  
+- `my_part_analysis.ipynb`: my individual contribution focusing on machine learning modeling. I applied multiple tree-based ensemble classification models (e.g., LightGBM, XGBoost), compared their performance using metrics like F1 score and ROC-AUC, and extracted feature importance to identify key behavioral and locational factors influencing users’ decision to pay.
 
 > 본 프로젝트는 총 5명이 함께 수행한 **팀 프로젝트**로, 공유오피스 플랫폼의 실제 사용자 데이터를 기반으로 무료 체험 이후 결제 여부를 예측하였습니다.
 > 머신러닝 기반의 분석을 통해 결제에 영향을 미치는 주요 속성을 도출하고, 이를 바탕으로 회원권 구조 개선 및 UI 전략 제안이라는 두 가지 실질적인 비즈니스 액션을 도출하였습니다.

@@ -4,7 +4,7 @@
 
 <img width="4608" height="3456" alt="Orange and Blue Structured Duotone Landscape University Research Poster" src="https://github.com/user-attachments/assets/541c6122-f6e1-4d2a-9f15-e815c1d05209" />
 
-- 📄 [포스터PDF]([https://github.com/ol-olozl/payment_prediction_analysis/blob/main/my_part_analysis.ipynb](https://github.com/ol-olozl/payment_prediction_analysis/blob/main/coffice_poster.pdf))
+- 📄 [포스터 PDF](https://github.com/ol-olozl/payment_prediction_analysis/blob/main/coffice_poster.pdf)
 - 📊 [PPT](https://www.canva.com/design/DAGsjo36ZiA/Ex5QmggvI9irnZD4fXNjEA/edit?utm_content=DAGsjo36ZiA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---

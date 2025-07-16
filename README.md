@@ -19,7 +19,7 @@ We built a machine learning model to predict user payment conversion after a fre
 > 본 프로젝트는 총 5명이 함께 수행한 **팀 프로젝트**로, 공유오피스 플랫폼의 실제 사용자 데이터를 기반으로 무료 체험 이후 결제 여부를 예측하였습니다.
 > 머신러닝 기반의 분석을 통해 결제에 영향을 미치는 주요 속성을 도출하고, 이를 바탕으로 회원권 구조 개선 및 UI 전략 제안이라는 두 가지 실질적인 비즈니스 액션을 도출하였습니다.
 > 
-> `job_platform_funnel_analysis.ipynb`는 팀 전체 결과를 정리한 파일이며, `my_part_analysis.ipynb`는 개인 기여 파일로, 머신러닝 기반 분류 모델링을 수행했습니다. LightGBM, XGBoost 등 트리 기반 앙상블 알고리즘을 적용하고, F1 score와 ROC-AUC 등의 지표를 통해 성능을 비교하였으며, 피처 중요도 분석을 통해 결제 전환에 영향을 주는 주요 속성을 도출했습니다.
+> `job_platform_funnel_analysis.ipynb`는 팀 전체 결과를 정리한 파일이며, `my_part_analysis.ipynb`는 개인 기여 파일로, 머신러닝 기반 분류 모델링을 수행했습니다. LightGBM, XGBoost 등 트리 기반 앙상블 알고리즘을 적용하고, F1 score와 ROC-AUC 등의 지표를 통해 성능을 비교하였으며, 피처 중요도 분석을 통해 결제 여에 영향을 주는 주요 속성을 도출했습니다.
 
 ---
 
